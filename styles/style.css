@@ -1,0 +1,13 @@
+.banner-img{
+    background-image: url("../images/Rectangle\ 5.png"),url("../images/banner.png");
+    background-repeat: no-repeat;
+    height: 70vh;
+
+}
+.card-img-top{
+    width: 20%;
+
+}
+.card-img-bottom{
+    width: 10%;
+}
